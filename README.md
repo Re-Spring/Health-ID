@@ -1,6 +1,7 @@
 
 <div align="center">
-<img width="600" alt="image" src="https://github.com/Re-Spring/.github/blob/main/ReSpring%20%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4%20%EC%84%BC%ED%84%B0.jpg">
+	
+<img src="https://github.com/Re-Spring/Health-ID/assets/140992400/5f1058f8-9424-4599-a396-31104f5aab40" width="600">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRe-Spring%2FHealth-ID&count_bg=%23FFEE58&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -22,7 +23,8 @@
 
 #### AI 모델 서빙을 활용한 얼굴 인식 기술을 이용한 출입 통제 서비스
 
-<img width="600" src="https://github.com/Re-Spring/.github/blob/main/KakaoTalk_20240404_132654556.png"/>
+<img src="https://github.com/Re-Spring/Health-ID/assets/140992400/d0bc897c-595a-4cd3-94c4-7075f7797b05" width="600">
+
 
 ## 개발 환경 💻
 #### Backend
