@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRe-Spring%2FHealth-ID&count_bg=%23FFEE58&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Health-ID
-#### 하이미디어 아카데미 인공지능(AI-X) 프로젝트 부트캠프 3기
+#### 하이미디어 아카데미 인공지능(AI-X) 프로젝트 부트캠프 3기 미니 프로젝트
 #### 개발기간: 2024.2.5 ~ 2024.2.7
 
 <br/>
